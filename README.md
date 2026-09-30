@@ -2,6 +2,7 @@
 
 > **A military-grade, end-to-end encrypted (E2EE) multi-device messaging, secure voice, and anti-tamper communication platform disguised entirely beneath an authentic 1989 retro Tetris arcade cabinet.**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Online-success?style=for-the-badge&logo=googlecloud)](https://ais-pre-fo2ejx2j42b4e3u2ao3bcl-351951746893.asia-southeast1.run.app)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.x-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-19-cyan.svg)](https://react.dev/)
 [![Express](https://img.shields.io/badge/Express-4.x-lightgrey.svg)](https://expressjs.com/)
@@ -10,6 +11,14 @@
 [![Vite](https://img.shields.io/badge/Vite-8.x-purple.svg)](https://vitejs.dev/)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind-v4-38bdf8.svg)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+---
+
+### 🌐 Live Deployment
+* **Live App URL**: [https://ais-pre-fo2ejx2j42b4e3u2ao3bcl-351951746893.asia-southeast1.run.app](https://ais-pre-fo2ejx2j42b4e3u2ao3bcl-351951746893.asia-southeast1.run.app)
+* **Covert Trigger**: Clear 1 line in the arcade game or press the operator hotkey `` ` `` (Backtick)
+* **Master Passkey**: `CIPHER-77`
+* **Duress Wipe PIN**: `0000` (silently triggers DoD 3-pass zeroization)
 
 ---
 
@@ -123,8 +132,8 @@ Two or more devices can connect simultaneously to chat in real time, conduct enc
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/project-tetrimino.git
-cd project-tetrimino
+git clone https://github.com/AyushShah1107/Project-Tetrimino.git
+cd Project-Tetrimino
 ```
 
 ### 2. Install Dependencies
