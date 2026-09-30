@@ -75,7 +75,7 @@ class NetworkService {
     try {
       const isHttps = window.location.protocol === 'https:';
       const wsProtocol = isHttps ? 'wss:' : 'ws:';
-      const wsUrl = `${wsProtocol}//${window.location.host}`;
+      const wsUrl = `${wsProtocol}//${window.location.host}/ws`;
 
       this.ws = new WebSocket(wsUrl);
 
