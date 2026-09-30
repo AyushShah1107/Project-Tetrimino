@@ -1,0 +1,6 @@
+{
+  "name": "Project Tetrimino - Covert E2EE Platform",
+  "description": "Covert E2EE messaging and voice platform disguised beneath a fully playable arcade shell with steganographic triggers and self-destruct protocols.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
